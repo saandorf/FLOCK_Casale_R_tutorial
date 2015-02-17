@@ -1,0 +1,37 @@
+CRITERION_ACCESSION	CRITERION	CRITERION_CATEGORY	STUDY_ACCESSION	WORKSPACE_ID
+CRIT3	Female participants of child bearing age must have a negative urine pregnancy test at Visit -01 and a negative urine pregnancy test at subsequent visits. In addition, female participants must be using a medically acceptable form of birth control.	Inclusion	SDY1	990
+CRIT19	Presence of a severely deviated nasal septum, septal perforation, structural nasal defect or large nasal polyps causing obstruction.	Exclusion	SDY1	990
+CRIT20	History of an upper respiratory or sinus infection requiring treatment with an antibiotic within 2 weeks prior to Visit -01.	Exclusion	SDY1	990
+CRIT24	Chronic use of medications (e.g., tricyclic antidepressants) that would affect assessment of the effectiveness of the study medication.	Exclusion	SDY1	990
+CRIT25	Rhinitis medicamentosa.	Exclusion	SDY1	990
+CRIT28	History within the past year of excessive alcohol intake or drug addiction.	Exclusion	SDY1	990
+CRIT30	Use of any prohibited concomitant medications during the washout period (i.e., before screening) and throughout the study period.	Exclusion	SDY1	990
+CRIT32	Participants with clinically significant abnormality on 12-lead ECG on screening visit.	Exclusion	SDY1	990
+CRIT8	Willing to avoid prohibited medications for the periods indicated in the protocol.	Inclusion	SDY1	990
+CRIT14	Participants with a history of immunotherapy within the past 10 years, if received one full year of immunotherapy, or within the past 5 years if received less than one year of immunotherapy.	Exclusion	SDY1	990
+CRIT29	Current smokers, greater than 10 pack year history, or participants who quit smoking less than one year prior to Screening.	Exclusion	SDY1	990
+CRIT2	Male or female 18 to 50 years of age.	Inclusion	SDY1	990
+CRIT5	A positive skin test by prick method to ragweed pollen at Visit -01. A positive skin prick test will be defined as a ragweed pollen-induced wheal >3 mm larger in diameter than diluent control (measurements will be made 15-20 minutes after application).	Inclusion	SDY1	990
+CRIT9	Participants must meet pretrial eligibility requirements for trial enrollment (acceptable medical history, physical examination results, normal electrocardiogram and acceptable laboratory test results).	Inclusion	SDY1	990
+CRIT17	Participants taking allergic ophthalmologic medication.	Exclusion	SDY1	990
+CRIT34	Participants with a history of noncompliance to medical regimens and participants who are considered potentially unreliable.	Exclusion	SDY1	990
+CRIT1	Able to comprehend and grant a witnessed, written informed consent prior to any study procedures.	Inclusion	SDY1	990
+CRIT10	Participants must have a baseline serum IgE level > 10 and < 700 IU/mL.	Inclusion	SDY1	990
+CRIT11	Participants < 30 kg or > 120 kg.	Exclusion	SDY1	990
+CRIT12	Participants who are pregnant or lactating.	Exclusion	SDY1	990
+CRIT36	Participants with known hypersensitivity to trial drug ingredients (i.e., sucrose, histidine, polysorbate 20) or related drugs (i.e., monoclonal antibody; polyclonal gamma-globulin).	Exclusion	SDY1	990
+CRIT22	Asthma (either history of, abnormal spirometry, [FEV1 <80% predicted] or use of asthma medications).	Exclusion	SDY1	990
+CRIT23	Chronic or intermittent use of inhaled, oral, intra-muscular, or intra-venous corticosteroids; or chronic or intermittent use of topical corticosteroids within 4 weeks of Visit -01.	Exclusion	SDY1	990
+CRIT31	Participants currently undergoing immunotherapy.	Exclusion	SDY1	990
+CRIT4	History of seasonal allergic rhinitis for at least 2 years with symptoms during the ragweed pollen season requiring pharmacotherapy.	Inclusion	SDY1	990
+CRIT7	Must intend to remain in the ragweed pollen area during the entire ragweed season.	Inclusion	SDY1	990
+CRIT13	Participants with a history of severe anaphylactoid (non-IgE mediated) or anaphylactic reaction(s).	Exclusion	SDY1	990
+CRIT15	Participants with known hypersensitivity to trial rescue medication (fexofenadine HCl).	Exclusion	SDY1	990
+CRIT18	Participants with clinically significant perennial rhinitis that would interfere in assessment of ragweed-induced seasonal allergic rhinitis symptoms.	Exclusion	SDY1	990
+CRIT33	Treatment with an experimental, non-approved drug, or investigational drug within the past 30 days.	Exclusion	SDY1	990
+CRIT35	Previous treatment with a monoclonal antibody for any reason including anti-IgE in any form (e.g., omalizumab).	Exclusion	SDY1	990
+CRIT27	History of cancer other than basal cell carcinoma of the skin.	Exclusion	SDY1	990
+CRIT6	Must be capable of faithfully completing the diary and of attending regularly scheduled study visits.	Inclusion	SDY1	990
+CRIT16	Participants taking beta-adrenergic antagonists in any form.	Exclusion	SDY1	990
+CRIT21	Documented evidence of acute or significant chronic sinusitis, as determined by the Investigator.	Exclusion	SDY1	990
+CRIT26	History or presence of significant renal, hepatic, neurologic, cardiovascular, hematologic, metabolic, cerebrovascular, respiratory, gastrointestinal or other significant medical condition including, autoimmune or collagen vascular disorders, aside from organ-specific autoimmune disease limited to the thyroid that in the Investigator?s opinion could interfere with the study or require medical treatment that would interfere with the study.	Exclusion	SDY1	990

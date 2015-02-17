@@ -1,0 +1,23 @@
+NAME	DESCRIPTION
+ELISA	ELISA data format.
+ELISPOT	ELISPOT data format.
+Flow_Cytometry	Flow_Cytometry data format.
+Gene_Expression_Affymetrix	Gene_Expression_Affymetrix data format.
+Gene_Expression_custom	Gene_Expression_custom data format.
+GenePattern_GCT	GenePattern_GCT data format.
+Genotyping_Affymetrix	Genotyping_Affymetrix data format.
+Genotyping_Illumina	Genotyping_Illumina data format.
+Genotyping_custom	Genotyping_custom data format.
+HLA_Typing	HLA_Typing data format.
+KIR	KIR data format.
+Mass_spectrometry	Mass_spectrometry data format.
+MBAA	MBAA data format.
+Virus_titer_Hemagglutination_inhibition	Virus_titer_Hemagglutination_inhibition data format.
+Q-PCR	Quantitative PCR data format.
+Other	Any Other data format that is not specified.
+Gene_Expression_Illumina_GA	Gene_Expression_Illumina Genome Analyzer format.
+Neutralizing_Antibody_Titer	Neutralizing antibody titer results.
+Image_Histology	Image Histology results.
+HAI	Hemagluttination Inhibition.
+Virus_Neutralization	Virus Neutralization.
+CyTOF	CyTOF data format.

@@ -1,0 +1,7 @@
+NAME	DESCRIPTION	SORT_ORDER
+Time of enrollment	Time Zero Event (TZ0) is the Time of enrollment.	1
+Time of initial treatment	Time Zero Event (TZ0) is the Time of initial treatment.	2
+Time of infection	Time Zero Event (TZ0) is the Time of infection.	3
+Time of initial vaccine administration	Time Zero Event (TZ0) is the Time of initial vaccine administration.	4
+Other	Time Zero Event (TZ0) is the some Other time value not in CV Terms.	5
+Not_Specified	Time Zero Event (TZ0) is not specified or not received. If no Time Zero Event value is received, then this is the system default value.	6

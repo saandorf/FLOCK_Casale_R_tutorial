@@ -1,0 +1,10 @@
+NAME	DESCRIPTION	LINK	SORT_ORDER
+Years	Unit of Years.		1
+Months	Unit of Months.		2
+Weeks	Unit of Weeks.		3
+Days	Unit of Days.		4
+d.p.c.	Unit of Days Post Coitum (d.p.c.).		5
+Hours	Unit of Hours.		6
+Minutes	Unit of Minutes.		7
+Seconds	Unit of Seconds.		8
+Not_Specified	Unit is not specified or not received. If no Unit value is received, then this is the system default value.		9

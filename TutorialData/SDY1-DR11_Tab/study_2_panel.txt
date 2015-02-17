@@ -1,0 +1,17 @@
+STUDY_ACCESSION	PANEL_NAME
+SDY1	adverseevents
+SDY1	arm_or_cohorts
+SDY1	assessments
+SDY1	conmeds
+SDY1	demographics
+SDY1	documentation
+SDY1	glossary
+SDY1	inclusionExclusion
+SDY1	labtests
+SDY1	mechassays
+SDY1	publications
+SDY1	resources
+SDY1	study_files
+SDY1	subject
+SDY1	summary
+SDY1	treatments

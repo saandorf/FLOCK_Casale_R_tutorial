@@ -1,0 +1,6 @@
+PROTOCOL_ACCESSION	DESCRIPTION	FILE_NAME	KEYWORDS	NAME	SUMMARY	TYPE	WORKSPACE_ID
+PTL2331		Casale ITN019AD Protocol v8.0.pdf		Clinical		Assay	990
+PTL2332		Flow_panel_definition.xls		Flow Surface		Assay	990
+PTL2333		Apop_panel_definition.xls		Apoptosis		Assay	990
+PTL2334		PlaceholderProtocol.doc		ELISA_protocol	Processing the biosamples and experiment samples, incubation with detection antibody, SA-HRP reaction, stopping the reaction, and scanning the plate.	Assay	990
+PTL2695		Casale-Unannotated-CRF-FINAL.pdf		ITN019AD Casale Case Report Forms	This document contains all the case report forms for the ITN019AD Study Allergen immunotherapy Co-administered with Omalizumab.	Not_Specified	990

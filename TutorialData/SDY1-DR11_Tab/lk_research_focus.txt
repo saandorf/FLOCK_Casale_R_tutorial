@@ -1,0 +1,8 @@
+RESEARCH_FOCUS	DESCRIPTION
+Atopy/Allergy	Atopy or Allergy research focus.
+Autoimmune	Autoimmune research focus.
+Immune Response	Immune Response research focus.
+Infection Response	Infection Response research focus.
+Transplantation	Transplantation research focus.
+Vaccine Response	Vaccine Response research focus.
+No Research Focus Specified	No Research Focus currently specified.

@@ -1,0 +1,34 @@
+PLANNED_VISIT_ACCESSION	END_RULE	MAX_START_DAY	MIN_START_DAY	ORDER_NUMBER	PERIOD_ACCESSION	START_RULE	STUDY_ACCESSION	VISIT_NAME	WORKSPACE_ID
+PV67		1	1	3	P5		SDY1	SDY1.Visit_0.Screening.Week_-11.Protocol Day_-77.Plan Visit Min Day_1.Plan Visit Max Day_1	990
+PV72		66	60	8	P4		SDY1	SDY1.Visit_4.RIT.Week_0.Protocol Day_0.Plan Visit Min Day_60.Plan Visit Max Day_68	990
+PV77		101	95	13	P3		SDY1	SDY1.Visit_9.Omalizumab/Placebo+Immunotherapy/Placebo.Week_5.Protocol Day_35.Plan Visit Min Day_95.Plan Visit Max Day_103	990
+PV88		383	375	24	P2		SDY1	SDY1.Visit_20.Follow-up (2003 ragweed season).Week_43.Protocol Day_301.Plan Visit Min Day_375.Plan Visit Max Day_383	990
+PV91		495	487	27	P1		SDY1	SDY1.Visit_23.Extended Follow-up (2004 ragweed season).Week_59.Protocol Day_413.Plan Visit Min Day_487.Plan Visit Max Day_495	990
+PV69		33	25	5	P5		SDY1	SDY1.Visit_1.Omalizumab Pre-treatment.Week_-9.Protocol Day_-63.Plan Visit Min Day_25.Plan Visit Max Day_33	990
+PV87		299	291	23	P2		SDY1	SDY1.Visit_19.Follow-up (2003 ragweed season).Week_31.Protocol Day_217.Plan Visit Min Day_291.Plan Visit Max Day_299	990
+PV73		73	67	9	P3		SDY1	SDY1.Visit_5.Omalizumab/Placebo+Immunotherapy/Placebo.Week_1.Protocol Day_7.Plan Visit Min Day_67.Plan Visit Max Day_75	990
+PV86		211	193	22	P2		SDY1	SDY1.Visit_18.Follow-up (2003 ragweed season).Week_19.Protocol Day_133.Plan Visit Min Day_193.Plan Visit Max Day_211	990
+PV89		467	459	25	P1		SDY1	SDY1.Visit_21.Extended Follow-up (2004 ragweed season).Week_55.Protocol Day_385.Plan Visit Min Day_459.Plan Visit Max Day_467	990
+PV66		-1	-18	2	P6		SDY1	SDY1.Visit_-1.Screening.Week_-10.Protocol Day_-70.Plan Visit Min Day_-18.Plan Visit Max Day_-1	990
+PV78		107	102	14	P3		SDY1	SDY1.Visit_10.Omalizumab/Placebo+Immunotherapy/Placebo.Week_6.Protocol Day_42.Plan Visit Min Day_102.Plan Visit Max Day_110	990
+PV80		122	116	16	P3		SDY1	SDY1.Visit_12.Omalizumab/Placebo+Immunotherapy/Placebo.Week_8.Protocol Day_56.Plan Visit Min Day_116.Plan Visit Max Day_124	990
+PV96		569	561	32	P1	Must occur at least 2 weeks post-ragweed searson in 2004	SDY1	SDY1.Visit_28.Extended Follow-up (2004 ragweed season).Week_71.Protocol Day_497.Plan Visit Min Day_561.Plan Visit Max Day_569	990
+PV74		80	74	10	P3		SDY1	SDY1.Visit_6.Omalizumab/Placebo+Immunotherapy/Placebo.Week_2.Protocol Day_14.Plan Visit Min Day_74.Plan Visit Max Day_82	990
+PV82		136	130	18	P3		SDY1	SDY1.Visit_14.Omalizumab/Placebo+Immunotherapy/Placebo.Week_10.Protocol Day_70.Plan Visit Min Day_130.Plan Visit Max Day_138	990
+PV79		115	109	15	P3		SDY1	SDY1.Visit_11.Omalizumab/Placebo+Immunotherapy/Placebo.Week_7.Protocol Day_49.Plan Visit Min Day_109.Plan Visit Max Day_117	990
+PV93		523	515	29	P1		SDY1	SDY1.Visit_25.Extended Follow-up (2004 ragweed season).Week_63.Protocol Day_441.Plan Visit Min Day_515.Plan Visit Max Day_523	990
+PV65		-19	-25	1	P6		SDY1	SDY1.Visit_-1.Screening.Week_-12.Protocol Day_-84.Plan Visit Min Day_-25.Plan Visit Max Day_-4	990
+PV90		480	473	26	P1		SDY1	SDY1.Visit_22.Extended Follow-up (2004 ragweed season).Week_57.Protocol Day_399.Plan Visit Min Day_473.Plan Visit Max Day_480	990
+PV76		94	88	12	P3		SDY1	SDY1.Visit_8.Omalizumab/Placebo+Immunotherapy/Placebo.Week_4.Protocol Day_28.Plan Visit Min Day_88.Plan Visit Max Day_96	990
+PV81		129	123	17	P3		SDY1	SDY1.Visit_13.Omalizumab/Placebo+Immunotherapy/Placebo.Week_9.Protocol Day_63.Plan Visit Min Day_123.Plan Visit Max Day_131	990
+PV95		551	543	31	P1		SDY1	SDY1.Visit_27.Extended Follow-up (2004 ragweed season).Week_67.Protocol Day_469.Plan Visit Min Day_543.Plan Visit Max Day_551	990
+PV71		59	53	7	P5		SDY1	SDY1.Visit_3.Omalizumab Pre-treatment.Week_-1.Protocol Day_-7.Plan Visit Min Day_53.Plan Visit Max Day_61	990
+PV85		159	151	21	P2	Must occur at least 1 week (but on later than 4 weeks after the end of the 2003 ragweed season	SDY1	SDY1.Visit_17.Follow-up (2003 ragweed season).Week_13.Protocol Day_91.Plan Visit Min Day_151.Plan Visit Max Day_159	990
+PV75		87	81	11	P3		SDY1	SDY1.Visit_7.Omalizumab/Placebo+Immunotherapy/Placebo.Week_3.Protocol Day_21.Plan Visit Min Day_81.Plan Visit Max Day_89	990
+PV83		143	137	19	P3		SDY1	SDY1.Visit_15.Omalizumab/Placebo+Immunotherapy/Placebo.Week_11.Protocol Day_77.Plan Visit Min Day_137.Plan Visit Max Day_145	990
+PV92		514	501	28	P1		SDY1	SDY1.Visit_24.Extended Follow-up (2004 ragweed season).Week_61.Protocol Day_427.Plan Visit Min Day_501.Plan Visit Max Day_515	990
+PV3080	Max start day set to 1 day after the latest well defined PV.	570	570	33	P6	Min start day set to 1 day after the latest well defined PV.	SDY1	Samples without study time information	990
+PV68		19	11	4	P5	Subjects have this visit only if they are taking a split dose of pre-treatment omalizumab with total pre-treatment dosage > 300 mg	SDY1	SDY1.Visit_0.Screening.Week_-9.Protocol Day_-63.Plan Visit Min Day_11.Plan Visit Max Day_19	990
+PV70		47	39	6	P5	Subjects have this visit only if they are taking a split dose of pre-treatment omalizumab with total pre-treatment dosage > 300 mg	SDY1	SDY1.Visit_2.Omalizumab Pre-treatment.Week_-5.Protocol Day_-35.Plan Visit Min Day_39.Plan Visit Max Day_47	990
+PV84		150	144	20	P3		SDY1	SDY1.Visit_16.Omalizumab/Placebo+Immunotherapy/Placebo.Week_12.Protocol Day_84.Plan Visit Min Day_144.Plan Visit Max Day_152	990
+PV94		537	529	30	P1		SDY1	SDY1.Visit_26.Extended Follow-up (2004 ragweed season).Week_65.Protocol Day_455.Plan Visit Min Day_529.Plan Visit Max Day_537	990

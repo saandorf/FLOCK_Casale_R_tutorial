@@ -1,0 +1,3 @@
+STUDY_ACCESSION	PUBMED_ID	AUTHORS	ISSUE	JOURNAL	MONTH	PAGES	TITLE	YEAR	WORKSPACE_ID
+SDY1	17631952	Klunker S, Saggar LR, Seyfert-Margolis V, Asare AL, Casale TB, Durham SR, Francis JN	120(3)	The Journal of Allergy and Clinical Immunology	Sep	688-695	Combination treatment with omalizumab and rush immunotherapy for ragweed-induced allergic rhinitis: Inhibition of IgE-facilitated allergen binding	2007	990
+SDY1	16387596	Casale TB, Busse WW, Kline JN, Ballas ZK, Moss MH, Townley RG, Mokhtarani M, Seyfert-Margolis V, Asare A, Bateman K, Deniz Y; Immune Tolerance Network Group.	117(1)	The Journal of Allergy and Clinical Immunology	Jan	134-40	Omalizumab pretreatment decreases acute reactions after rush immunotherapy for ragweed-induced seasonal allergic rhinitis	2006	990

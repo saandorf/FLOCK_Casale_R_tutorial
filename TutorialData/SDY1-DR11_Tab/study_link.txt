@@ -1,0 +1,3 @@
+STUDY_LINK_ID	NAME	STUDY_ACCESSION	TYPE	VALUE	WORKSPACE_ID
+1	Clinicaltrials.gov	SDY1	website	http://clinicaltrials.gov/ct2/show/NCT00078195	990
+2	ImmuneTolerance.org	SDY1	website	http://www.immunetolerance.org/studies/efficacy-and-safety-evaluation-allergen-immunotherapy-co-administered-with-omalizumab-anti-i	990

@@ -1,0 +1,16 @@
+<Head/>
+
+<MAP NAME=studyImageMap>
+	<AREA SHAPE=RECT COORDS=4,3,879,158 alt=Study HREF=javascript:refreshParent('clinical/study/displayStudyDetails.do?&itemList=SDY1'); TITLE=Click to learn more details about this study>
+	<AREA SHAPE=RECT COORDS=64,185,167,228 alt=Subjects HREF=javascript:refreshParent('queryResearch/complexquery/displayQuery.do?rootEntityId=v_soi&queryValues=studyAccNum:SDY1'); TITLE=Click to learn more details about subjects in this study>
+	<AREA SHAPE=RECT COORDS=27,241,246,298 alt=IT + anti-IgE cohort HREF=javascript:refreshParent('queryResearch/complexquery/displayQuery.do?rootEntityId=v_soi&queryValues=studyAccNum:SDY1;armOrCohortAccNum:ARM4'); TITLE=Click to learn more details about subjects in the IT + anti-IgE cohort>
+	<AREA SHAPE=RECT COORDS=29,298,244,354 alt=placebo IT + anti-IgE cohortHREF=javascript:refreshParent('queryResearch/complexquery/displayQuery.do?rootEntityId=v_soi&queryValues=studyAccNum:SDY1;armOrCohortAccNum:ARM3'); TITLE=Click to learn more details about subjects in the placebo IT + anti-IgE cohort>
+	<AREA SHAPE=RECT COORDS=30,355,244,410 alt=IT + placebo anti-IgE cohort HREF=javascript:refreshParent('queryResearch/complexquery/displayQuery.do?rootEntityId=v_soi&queryValues=studyAccNum:SDY1;armOrCohortAccNum:ARM2'); TITLE=Click to learn more details about subjects in the IT + placebo anti-IgE cohort>
+	<AREA SHAPE=RECT COORDS=29,411,246,466 alt=placebo IT  + anti-IgE cohort HREF=javascript:refreshParent('queryResearch/complexquery/displayQuery.do?rootEntityId=v_soi&queryValues=studyAccNum:SDY1;armOrCohortAccNum:ARM1'); TITLE=Click to learn more details about subjects in the placebo IT + anti-IgE cohort>
+	<AREA SHAPE=RECT COORDS=391,469,482,490 alt=assessments HREF=javascript:refreshParent('queryResearch/complexquery/displayQuery.do?rootEntityId=ass&queryValues=studyAccNum:SDY1'); TITLE=Click to learn more details about assessments>
+	<AREA SHAPE=RECT COORDS=390,491,483,512 alt=lab tests HREF=javascript:refreshParent('queryResearch/complexquery/displayQuery.do?rootEntityId=lt&queryValues=studyAccNum:SDY1'); TITLE=Click to learn more details about lab tests>
+	<AREA SHAPE=RECT COORDS=391,514,500,534 alt=adverse events HREF=javascript:refreshParent('queryResearch/complexquery/displayQuery.do?rootEntityId=ae&queryValues=studyAccNum:SDY1'); TITLE=Click to learn more details about adverse events>
+	<AREA SHAPE=RECT COORDS=390,535,557,557 alt=concomitant medications HREF=javascript:refreshParent('queryResearch/complexquery/displayQuery.do?rootEntityId=sbs&queryValues=studyAccNum:SDY1'); TITLE=Click to learn more details about concomitant medications>
+	<AREA SHAPE=RECT COORDS=619,441,813,492 alt=subject samples HREF=javascript:refreshParent('queryResearch/complexquery/displayQuery.do?rootEntityId=bs&queryValues=studyAccNum:SDY1'); TITLE=Click to learn more details about samples>
+	<AREA SHAPE=RECT COORDS=620,546,925,624 alt=assays and results HREF=javascript:refreshParent('queryResearch/complexquery/displayQuery.do?rootEntityId=v_e&queryValues=studyAccNum:SDY1'); TITLE=Click to learn more details about assays and results>
+</MAP>

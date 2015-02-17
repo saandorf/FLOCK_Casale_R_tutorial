@@ -1,0 +1,4 @@
+STUDY_FILE_ACC_NUM	DESCRIPTION	FILE_NAME	STUDY_ACC_NUM	STUDY_FILE_TYPE	TITLE	PROJECT_ID
+SFL1418	Site-based Pollen data	PLN_2013-11-25_09-14-44.txt	SDY1	Study_Data	Site-based Pollen data	990
+SFL1	Study document for 2	Casale_Study_Summary_Report.doc	SDY1	Study_Summary_Description	2	990
+SFL1417	Apoptosis Data	Apoptosis_2013-01-11_14-29-50.txt	SDY1	Study_Data	Apoptosis Data	990

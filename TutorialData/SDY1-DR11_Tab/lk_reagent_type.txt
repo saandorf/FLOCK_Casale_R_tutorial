@@ -1,0 +1,17 @@
+NAME	DESCRIPTION	LINK	SORT_ORDER
+Affymetrix	Affymetrix reagent		1
+ELISA	ELISA reagent		2
+ELISPOT	ELISPOT reagent		3
+Flow_Cytometry	Flow Cytometry reagent		4
+Gene_Expression_Array	Replaces Affy and Illumina		5
+Genotyping_Array	Replaces Affy and Illumina		6
+HAI	Hemagluttination Inhibition reagent		7
+HLA_Typing_System	HLA Typing System reagent		8
+Illumina	Illumina reagent		9
+KIR_Typing_System	KIR Typing System reagent		10
+Mass_Cytometry	Mass Cytometry reagent		11
+MBAA	MBAA reagent		12
+PCR	PCR reagent (includes all types of traditional PCR and quantitative PCR reagents)		13
+Sequencing	Sequencing reagent		14
+Virus_Neutralization	Virus Neutralization reagent		15
+Other	Other reagent		16

@@ -1,0 +1,49 @@
+NAME	DESCRIPTION
+Archived	Files stored and not linked to descriptive data.
+Clinical data	Clinical assessment result in ImmPort format.
+Custom assay description	Metadata for custom assay.
+Custom assay result	Custom assay result.
+ELISA description	Metadata for ELISA.
+ELISPOT description	Metadata for ELISpot assays.
+ELISA result	Measurement values from ELISA assays.
+ELISPOT result	Measurement values from ELISpot assays.
+Experiment description	Experiment descriptions in ImmPort format.
+Flow cytometry description	Metadata for flow cytometry assays.
+Flow cytometry result	Flow cytometry result.
+Gene expression description	Metadata for gene expression assays.
+Gene expression result	Measurement values from  Gene expression assays.
+Genotyping description	Metadata for genotyping assays.
+Genotyping result	Measurement Genotyping result.
+HLA description	Metadata for HLA typing result.
+HLA result	HLA result.
+KIR description	Metadata for KIR result.
+KIR result	KIR result.
+Mass spectrometry description	Metadata for mass spectrometry.
+Mass spectrometry result	Mass spectrometry result.
+MBAA description	Metadata for Multiplex bead array assay.
+MBAA result	Result for Multiplex bead array assay.
+Other	Custom purpose.
+Q-PCR description	Metadata for Quantitative PCR.
+Q-PCR result	Quantitative PCR measurement.
+Protocol description	Metadata for protocol.
+Reagent description	Reagent descriptions in ImmPort format.
+Sample description	Sample descriptions in ImmPort format.
+Study design	Study design templates.
+Subject description	Subject descriptions in ImmPort format.
+Virus titer description	Metadata for virus titer.
+Virus titer result	Measurement of virus titer.
+Neutralizing antibody titer description	Metadata for neutralizing antibody assays.
+Image Histology description	Metadata for histology results.
+Neutralizing antibody titer result	Neutralizing antibody titer result.
+Image Histology result	Image Histology assay result.
+Protocol	Protocol file.
+Treatment description	Treatment description.
+Control Sample description	Control Sample description.
+Standard Curve description	Standard Curve description.
+CyTOF result	CyTOF result.
+HAI description	Metadata for HAI results.
+HAI result	HAI result.
+Virus neutralization	Metadata for virus neutralization results.
+Virus neutralization result	Virus neutralization results.
+Flow cytometry compensation or control	Flow cytometry compensation or control files.
+CyTOF description	Metadata for flow cytometry assays.

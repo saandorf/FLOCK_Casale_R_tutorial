@@ -1,0 +1,7 @@
+PERIOD_ACCESSION	ORDER_NUMBER	STUDY_ACCESSION	TITLE	WORKSPACE_ID
+P6	1	SDY1	Screening	990
+P2	5	SDY1	Follow-up (2003 ragweed season)	990
+P1	6	SDY1	Extended Follow-up (2004 ragweed season)	990
+P5	2	SDY1	Omalizumab Pre-treatment	990
+P4	3	SDY1	RIT	990
+P3	4	SDY1	Omalizumab/Placebo + Immunotherapy/Placebo	990

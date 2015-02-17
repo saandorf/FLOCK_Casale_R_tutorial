@@ -1,0 +1,14 @@
+NAME	COMMON_NAME	TAXONOMY_ID
+Homo sapiens	Human	9606
+Mus musculus	Mouse	10090
+Rattus norvegicus	Rat	10116
+Drosophila melanogaster	Fruit Fly	7227
+Gallus gallus	Chicken	9031
+Rattus rattus	Rat - Brown	10117
+Macaca mulatta	Rhesus macaque	9544
+Macaca fascicularis	Macaca fascicularis	9541
+Mus spretus	Western wild mouse	10096
+Mus musculus castaneus	Southeastern Asian house mouse	10091
+Anas platyrhynchos	Mallard duck	8839
+Mustela putorius furo	domestic ferret	9669
+Sus scrofa domesticus	domestic pig	9825

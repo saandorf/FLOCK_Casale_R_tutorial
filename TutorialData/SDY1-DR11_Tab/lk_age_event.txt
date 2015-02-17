@@ -1,0 +1,8 @@
+NAME	DESCRIPTION	SORT_ORDER
+Age at enrollment	Age Event is the Age at enrollment. In the case of a subject enrolled in multiple studies, this value is the minimum age for all the studies.	1
+Age at initial treatment	Age Event is the Age at initial treatment.	2
+Age at infection	Age Event is the Age at infection.	3
+Age at initial vaccine administration	Age Event is the Age at initial vaccine administration.	4
+Age at Study Day 0	Age Event is the Age at Study Day 0.	5
+Other	Age Event is some Other value not in CV Terms.	6
+Not_Specified	Age Event is not specified or not received. If no Age Event value is received, then this is the system default value.	7

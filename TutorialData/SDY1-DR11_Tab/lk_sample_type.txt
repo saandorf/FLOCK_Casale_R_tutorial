@@ -1,0 +1,22 @@
+NAME	DESCRIPTION	LINK
+Cell	Cell	http://purl.obolibrary.org/obo/CL_0000000
+Carbohydrate	Carbohydrate	http://purl.obolibrary.org/obo/CHEBI_16646
+DNA	DNA	http://purl.obolibrary.org/obo/CHEBI_16991
+Lipid	Lipid	http://purl.obolibrary.org/obo/CHEBI_18059
+Lung	Lung	http://purl.obolibrary.org/obo/UBERON_0002048
+Lymph node	Lymph node	http://purl.obolibrary.org/obo/UBERON_0000029
+Organ	Organ	http://purl.obolibrary.org/obo/UBERON_0000062
+PBMC	Peripheral Blood Mononuclear Cell (PBMC)	http://purl.obolibrary.org/obo/CL_0000842
+Plasma	Plasma	http://purl.obolibrary.org/obo/UBERON_0001969
+Protein	Protein	http://purl.obolibrary.org/obo/CHEBI_36080
+RNA	RNA	http://purl.obolibrary.org/obo/CHEBI_33697
+Saliva	Saliva	http://purl.obolibrary.org/obo/UBERON_0001836
+Serum	Serum	http://purl.obolibrary.org/obo/UBERON_0001977
+Spleen	Spleen	http://purl.obolibrary.org/obo/UBERON_0002106
+Thymus	Thymus	http://purl.obolibrary.org/obo/UBERON_0002370
+Tissue	Tissue	http://purl.obolibrary.org/obo/UBERON_0000479
+Tonsil	Tonsil	http://purl.obolibrary.org/obo/UBERON_0002372
+Urine	Urine	http://purl.obolibrary.org/obo/UBERON_0001088
+Whole blood	Whole blood	http://purl.obolibrary.org/obo/UBERON_0000178
+Other	Other	
+Not_Specified	Sample Type is not specified or not received. If no Sample Type value is received, then this is the system default value.	

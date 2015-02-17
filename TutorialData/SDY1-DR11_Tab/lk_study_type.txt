@@ -1,0 +1,5 @@
+NAME	DESCRIPTION
+Longitudinal	A longitudinal study is a correlational research study that involves repeated observations of the same variables over long periods of time - often many decades. It is a type of observational study.
+Observational	An observational study draws inferences about the possible effect of a treatment on subjects, where the assignment of subjects into a treated group versus a control group is outside the control of the investigator.
+Interventional	In an interventional study, the investigators give the research subjects a particular medicine or other intervention. Usually, they compare the treated subjects to subjects who receive no treatment or standard treatment. Then the researchers measure how the subjects' health changes.
+Intervention Longitudinal	An Intervention Longitudinal study involves repeated observations of the same variables over long periods of time during an intervention study. It is to Interventional study as Longitudinal is to Observational study.

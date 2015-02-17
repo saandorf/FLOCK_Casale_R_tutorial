@@ -1,0 +1,2 @@
+PROJECT_ID	CG_ID	DESCRIPTION	GOAL	KEYWORDS	TITLE
+990	702	Phase II, Double-Blinded, Placebo-Controlled, Efficacy and Safety  Evaluation of Allergen Immunotherapy Co-Administered with  Omalizumab, an Anti-IgE Monoclonal Antibody		ITN Casale ITN019AD Immune Tolerance Ragweed Allergy Omalizumab 	ITN019AD - Clinical Trial

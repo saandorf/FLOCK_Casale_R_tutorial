@@ -1,0 +1,31 @@
+NAME	DESCRIPTION	LINK	SORT_ORDER	TYPE
+pg	picogram	http://purl.obolibrary.org/obo/UO_0000025	1	mass
+ng	nanogram	http://purl.obolibrary.org/obo/UO_0000024	2	mass
+ug	microgram	http://purl.obolibrary.org/obo/UO_0000023	3	mass
+mg	milligram	http://purl.obolibrary.org/obo/UO_0000022	4	mass
+gm	gram	http://purl.obolibrary.org/obo/UO_0000021	5	mass
+pl	picoliter	http://purl.obolibrary.org/obo/UO_0000103	6	volume
+nl	nanoliter	http://purl.obolibrary.org/obo/UO_0000102	7	volume
+ul	microliter	http://purl.obolibrary.org/obo/UO_0000101	8	volume
+ml	milliliter	http://purl.obolibrary.org/obo/UO_0000098	9	volume
+pg/nl	picogram per nanoliter		15	concentration
+pg/ul	picogram per microliter		16	concentration
+pg/ml	picogram per milliliter	http://purl.bioontology.org/ontology/SNOMEDCT/258808001	17	concentration
+ng/nl	nanogram per nanoliter		18	concentration
+ng/ul	nanogram per microliter	http://purl.bioontology.org/ontology/SNOMEDCT/272082007	19	concentration
+ng/ml	nanogram per milliliter	http://purl.bioontology.org/ontology/SNOMEDCT/258806002	20	concentration
+ug/ul	microgram per microliter		21	concentration
+ug/ml	microgram per milliliter	http://purl.bioontology.org/ontology/SNOMEDCT/258801007	22	concentration
+mg/ml	microgram per milliliter	http://purl.bioontology.org/ontology/SNOMEDCT/258798001	23	concentration
+C	Celsius	http://purl.obolibrary.org/obo/UO_0000027	27	temperature
+K	Kelvin	http://purl.obolibrary.org/obo/UO_0000012	28	temperature
+F	Fahrenheit	http://purl.obolibrary.org/obo/UO_0000195	29	temperature
+Not_Specified	No value provided		30	Not_Specified
+M	molar	http://purl.obolibrary.org/obo/UO_0000062	14	concentration
+pM	picomolar	http://purl.obolibrary.org/obo/UO_0000066	10	concentration
+nM	nanomolar	http://purl.obolibrary.org/obo/UO_0000065	11	concentration
+uM	micromolar	http://purl.bioontology.org/ontology/SNOMEDCT/258814008	12	concentration
+mM	millimolar	http://purl.obolibrary.org/obo/UO_0000063	13	concentration
+MOI	multiplicity of infection	http://en.wikipedia.org/wiki/Multiplicity_of_infection	24	concentration
+HAU	hemagglutination units	http://en.wikipedia.org/wiki/Virus_quantification	25	concentration
+TCID50	mean tissue culture infective dose	http://en.wikipedia.org/wiki/Virus_quantification	26	concentration

@@ -1,0 +1,39 @@
+STUDY_ACC_NUM	DEFINITION	TERM	PROJECT_ID
+SDY1	Common Toxicity Criteria 	CTC	990
+SDY1	Immunoglobulin E 	IgE	990
+SDY1	Nitric Oxide 	NO	990
+SDY1	Subcutaneous 	SC	990
+SDY1	Code of Federal Regulations 	CFR	990
+SDY1	Interleukin 	IL	990
+SDY1	National Institute of Allergy and Infectious Diseases 	NIAID	990
+SDY1	Peripheral Blood Mononuclear Cells 	PBMC	990
+SDY1	Polymerase Chain Reaction 	PCR	990
+SDY1	National Cancer Institute 	NCI	990
+SDY1	Rhinoconjunctivitis QOL Questionnaire	RQLQ	990
+SDY1	Study Management Team 	SMT	990
+SDY1	Monoclonal Antibody 	mAb	990
+SDY1	Intent-to-treat 	ITT	990
+SDY1	Reticuloendothelial System 	RES	990
+SDY1	Serious Adverse Event 	SAE	990
+SDY1	Case Report Form 	CRF	990
+SDY1	Contract Research Organization 	CRO	990
+SDY1	Electrocardiogram 	ECG 	990
+SDY1	Enzyme-linked Immunospot 	ELISPOT	990
+SDY1	Rush Immunotherapy 	RIT	990
+SDY1	Safety Serious Adverse Event Coordinator 	SAEC	990
+SDY1	Seasonal Allergic Rhinitis 	SAR	990
+SDY1	Interferon 	IFN	990
+SDY1	Immunotherapy 	IT	990
+SDY1	Immune Tolerance Network 	ITN	990
+SDY1	Data and Safety Monitoring Board 	DSMB	990
+SDY1	Forced Expiratory Volume 	FEV	990
+SDY1	Institutional Review Board 	IRB	990
+SDY1	Per-protocol 	PP	990
+SDY1	Quality Of Life 	QOL	990
+SDY1	Tolerance Assay Group 	TAG	990
+SDY1	Adverse Event 	AE	990
+SDY1	Analysis of Variance 	ANOVA	990
+SDY1	Good Clinical Practice 	GCP	990
+SDY1	Human Anti-Human Antibodies 	HAHA	990
+SDY1	Investigational New Drug 	IND	990
+SDY1	Intravenous 	IV	990

@@ -1,0 +1,5 @@
+ARM_ACCESSION	DESCRIPTION	NAME	POPULATION_SELECTION_RULE	SORT_ORDER	STUDY_ACCESSION	TYPE	WORKSPACE_ID
+ARM2	Placebo omalizumab pre-treatment, ragweed RIT, placebo omalizumab + ragweed IT	Immunotherapy with placebo anti-IgE	Randomized 1:1:1:1 to 4 treatment groups	3	SDY1	Placebo Comparator	990
+ARM4	Omalizumab pre-treatment, ragweed RIT, omalizumab + ragweed IT	Immunotherapy with anti-IgE	Randomized 1:1:1:1 to 4 treatment groups	1	SDY1	Experimental	990
+ARM1	Placebo omalizumab pre-treatment, placebo RIT, placebo omalizumab + placebo IT	Placebo Immunotherapy with placebo anti-IgE	Randomized 1:1:1:1 to 4 treatment groups	4	SDY1	Placebo Comparator	990
+ARM3	Omalizumab pre-treatment, placebo RIT, omalizumab + placebo IT	Placebo Immunotherapy with anti-IgE	Randomized 1:1:1:1 to 4 treatment groups	2	SDY1	Placebo Comparator	990

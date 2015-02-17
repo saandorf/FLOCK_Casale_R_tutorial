@@ -1,0 +1,2 @@
+PROGRAM_ID	DEPUTY_PROJECT_OFFICER	END_DATE	EXTENDED_DATE	PROJECT_OFFICER	START_DATE	SUMMARY	TITLE
+18	 	2015-01-01 00:00:00	2015-01-01 00:00:00	James Mcnamara	2004-01-01 00:00:00	Conducts clinical trials at all phases to evaluate investigational approaches intended to lead to a functional state of immune tolerance in three clinical areas:  autoimmune diseases; asthma and allergic diseases; and immune-mediated rejection of transplanted solid organs, tissues and cells.	ITN: Collaborative Network for Clinical Research on Immune Tolerance Network

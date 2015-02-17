@@ -1,0 +1,3 @@
+NAME	DESCRIPTION
+Study_Summary_Description	Study Summary Description document.
+Study_Data	Data associated with a study. For studies at a data curation level 0, this is the default setting for data linked to a study.

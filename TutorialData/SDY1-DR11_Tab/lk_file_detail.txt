@@ -1,0 +1,22 @@
+NAME	DESCRIPTION
+Affymetrix CEL	Affymetrix CEL file.
+Affymetrix format	Affymetrix genotyping format.
+Affymetrix other	Other Affymetrix file formats ( DAT, RPT, and TXT formats).
+Converted FCS file	FCS file converted for FLOW analysis.
+Custom	A user defined custom format.
+Flow cytometry result in fcs format	Flow cytometer or analysis software output in FCS format.
+Flow cytometry result in text format	Flow cytometer or analysis software output in text format.
+GenePattern data set	GenePattern GCT file format.
+HLA result	HLA result in ImmPort format.
+Illumina format	Illumina format.
+ImmPort template	ImmPort defined file format.
+KIR result	KIR result.
+Markers or channels description	Description of marker or channels in a FCS file.
+MBAA	Multiplex Bead Array Assay.
+Q-PCR result	Q-PCR result file.
+Hemagglutination inhibition result	HIA result in custom format.
+Mass spectrometry result	Mass result in custom format.
+Illumina GA	Illumina Genome Analyzer sequencer non-normalized result.
+MBAA bead level result	Multiplex Bead Array Assay. bead level result are the primary output of MBBA instruments.
+CyTOF result in fcs format	CyTOF result in FCS format.
+Flow cytometry workspace	Flow cytometry analysis software workspace.
