@@ -1,5 +1,6 @@
-# Andorf et al., Analysis of autogating results of public flow cytometry
-# experiments in R: A ragweed allergy trial from ImmPort as case study
+# Andorf et al., Analysis of FLOCK autogating results of publicly available
+# flow cytometry experiments: A ragweed allergy trial from ImmPort as case
+# study and tutorial
 ###############################################################################
 
 ##Load the functions to read in and process the downloaded FLOCK results
@@ -7,7 +8,7 @@ source("Functions.R")
 ##If an error is given containing "cannot open file 'Functions.R': No such file
 ##or directory", please make sure that
 ##(a) this MAIN.R file is in the same directory as the Functions.R file
-##(b) if (a) is the case, please check the working directory of the current R session by uncommenting 
+##(b) If (a) is the case, please check the working directory of the current R session by uncommenting 
 ##    (remove # at beginning of row) and executing the following command:
 #getwd()
 ##    If this path is not to where the two .R files are located, please set the working directory
