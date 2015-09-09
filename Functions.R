@@ -1,5 +1,6 @@
-# Andorf et al., Analysis of autogating results of public flow cytometry
-# experiments in R: A ragweed allergy trial from ImmPort as case study
+# Andorf et al., Analysis of FLOCK autogating results of publicly available
+# flow cytometry experiments: A ragweed allergy trial from ImmPort as case
+# study and tutorial
 ###############################################################################
 
 
